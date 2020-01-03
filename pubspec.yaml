@@ -1,8 +1,7 @@
 name: simple_layout
-description: A new Flutter package project.
+description: A Flutter Package that enables simple layout padding. This is similar to tailwind css.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/shavyg2/flutter-simple-layout
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
