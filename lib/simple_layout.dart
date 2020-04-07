@@ -21,7 +21,7 @@ class Layout extends StatelessWidget {
   Layout({
     this.options,
     this.child,
-  });
+  }):super(key:Key(options));
 
   @override
   Widget build(BuildContext context) {
